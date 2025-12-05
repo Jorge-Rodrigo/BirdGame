@@ -3,7 +3,16 @@
   "resourceVersion": "1.6",
   "name": "BirdGame",
   "resources": [
+    {"id":{"name":"spr_background_tree","path":"sprites/spr_background_tree/spr_background_tree.yy",},"order":2,},
+    {"id":{"name":"spr_background_mirror_tree","path":"sprites/spr_background_mirror_tree/spr_background_mirror_tree.yy",},"order":4,},
     {"id":{"name":"nt_game_plan","path":"notes/nt_game_plan/nt_game_plan.yy",},"order":0,},
+    {"id":{"name":"spr_background_main","path":"sprites/spr_background_main/spr_background_main.yy",},"order":1,},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":1,},
+    {"id":{"name":"rm_store","path":"rooms/rm_store/rm_store.yy",},"order":2,},
+    {"id":{"name":"spr_background_mirror_water","path":"sprites/spr_background_mirror_water/spr_background_mirror_water.yy",},"order":5,},
+    {"id":{"name":"spr_background_moon","path":"sprites/spr_background_moon/spr_background_moon.yy",},"order":0,},
+    {"id":{"name":"spr_background_water","path":"sprites/spr_background_water/spr_background_water.yy",},"order":3,},
+    {"id":{"name":"spr_background_mirror_moon","path":"sprites/spr_background_mirror_moon/spr_background_mirror_moon.yy",},"order":6,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [
@@ -25,6 +34,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+    {"roomId":{"name":"rm_store","path":"rooms/rm_store/rm_store.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
@@ -41,6 +52,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy","order":6,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy","order":13,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Background","folderPath":"folders/Sprites/Background.yy","order":1,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},

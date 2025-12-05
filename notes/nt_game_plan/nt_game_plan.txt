@@ -20,3 +20,9 @@ Fluxo de jogo
 	se bater em baixo ou em cima o passaro do player morre
 	se bater em uma arvore morre tambem
 		
+		
+Tela do Jogo
+
+	Background
+		Importar sprites
+		Criar camadas
