@@ -1,0 +1,22 @@
+Menu do jogo
+	Nome do jogo
+	Dois botoes
+		Botão de jogar que inicia o jogo
+		Botão de Loja 
+			onde abre uma loja onde tem opção para comprar skin
+			Mostra os peixes(que são os dinheiros)
+			Um botão para voltar
+	Fundo do menu fica se mexendo e com efeitos de folha
+
+Fluxo de jogo
+	Passaro se manten parado e a gravidade vai derrubando ele
+	Apertar ESPAÇO faz ele subir de novo
+	no topo da tela tem um numero que representa o nivel
+	o fundo se move em paralax
+	as arvores vao andando para frente e se repetindo
+	passaros vem em cima do player
+	peixes fica spawnando para ser coletado
+	na esquerda fica contabilizando os pontos
+	se bater em baixo ou em cima o passaro do player morre
+	se bater em uma arvore morre tambem
+		
