@@ -1,4 +1,4 @@
-
+if global.has_lost  exit;
 // para dar o impulso tem que colocar direto, nao -=
 
 

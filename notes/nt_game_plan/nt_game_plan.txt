@@ -54,4 +54,12 @@ Tela do Jogo
 			player nao bate asas
 			o background vai parar
 			inimigo vai parar
+	
+	Passaro
+		Importar Sprite
+		Criar objeto
+		criar layer
+		ir para a esquerda
+		colidir com o player
+		
 			
