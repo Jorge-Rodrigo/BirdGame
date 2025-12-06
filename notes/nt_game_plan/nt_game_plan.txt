@@ -25,4 +25,33 @@ Tela do Jogo
 
 	Background
 		Importar sprites
+		Colocar BG na room
 		Criar camadas
+		Resolução do jogo
+		
+	Player
+		importar sprite
+		Ajustar colisão
+		Criar Objeto
+		criar layer para o player
+		colocar ele na room
+		
+		PLayer tem que cair
+		subir batendo asa
+		apertar Espaço
+		
+		so bater a asa quando apertar espaço
+		
+	Obstaculos
+		arvores
+		importar sprite
+		criar objeto
+		criar layer
+		Fazer ele ir para a esquerda
+		e fazer player bater nela e avisar
+		
+		efeito ao perder, pare tudo
+			player nao bate asas
+			o background vai parar
+			inimigo vai parar
+			
