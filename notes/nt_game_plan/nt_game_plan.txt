@@ -64,6 +64,14 @@ Tela do Jogo
 		
 		
 Geração procedural do level
-	arvore, de tempos em tempos ele vai criar uma arvore
+	arvore,
+	de tempos em tempos ele vai criar uma arvore em uma posição especifica
+	Passaros
+	intervalo de criação dos passoros maior que os das arvores
+	
+Sistema de pontos
+	Ganhar pontos o tempo todo se eu nao perdi
 		
+Sistema de Level
+	
 			
