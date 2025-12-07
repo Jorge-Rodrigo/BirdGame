@@ -7,6 +7,7 @@
     {"id":{"name":"spr_background_mirror_tree","path":"sprites/spr_background_mirror_tree/spr_background_mirror_tree.yy",},"order":4,},
     {"id":{"name":"nt_game_plan","path":"notes/nt_game_plan/nt_game_plan.yy",},"order":0,},
     {"id":{"name":"spr_background_main","path":"sprites/spr_background_main/spr_background_main.yy",},"order":1,},
+    {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},"order":3,},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},"order":0,},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":1,},
     {"id":{"name":"spr_bird2","path":"sprites/spr_bird2/spr_bird2.yy",},"order":1,},

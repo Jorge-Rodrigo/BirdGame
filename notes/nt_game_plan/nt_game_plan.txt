@@ -62,4 +62,8 @@ Tela do Jogo
 		ir para a esquerda
 		colidir com o player
 		
+		
+Geração procedural do level
+	arvore, de tempos em tempos ele vai criar uma arvore
+		
 			
