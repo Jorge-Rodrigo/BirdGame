@@ -1,6 +1,7 @@
 
 global.has_lost = false;
 global.points = 0;
+global.level = 1;
 
 
 
