@@ -2,7 +2,7 @@
 global.has_lost = false;
 global.points = 0;
 global.level = 1;
-
+global.fishs = 0;
 global.points_list = [20, 50, 85, 120, 160, 210, 270, 320, 380];
 
 function lose_game(){

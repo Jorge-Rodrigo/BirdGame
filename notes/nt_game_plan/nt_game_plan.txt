@@ -75,4 +75,14 @@ Sistema de pontos
 Sistema de Level
 	fazer ela desenhar a sprite e o numero certo
 	no meio da tela
+	ganha levels conforme ganha pontos
+	conforme sobe de level a velocidade do jogo aumenta
+	
+Coletaveis
+	variavel do coletaveis
+	sprite do coletavel
+	exibir quantos coletaveis na tela
+	Criar o objeto do coletavel
+	Criar a layer do coletavel
+	fazer ele ir para a esquerda
 			
