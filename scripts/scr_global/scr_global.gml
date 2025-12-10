@@ -3,7 +3,7 @@ global.has_lost = false;
 global.points = 0;
 global.level = 1;
 
-
+global.points_list = [20, 50, 85, 120, 160, 210, 270, 320, 380];
 
 function lose_game(){
 	if global.has_lost exit;
@@ -18,7 +18,7 @@ function lose_game(){
 
 	vspeed = -3;
 	hspeed = -2;
-
+	global.level = 1;
 
 	layer_hspeed("Bg_mirror_tree",0);
 	layer_hspeed("Bg_mirror_water",0);

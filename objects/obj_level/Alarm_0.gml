@@ -1,5 +1,5 @@
 
-var _tempY = random_range(360, 400);
+var _tempY = random_range(360, 430);
 
 
 instance_create_layer(704, _tempY, "Obstacles", obj_tree);
