@@ -85,4 +85,12 @@ Coletaveis
 	Criar o objeto do coletavel
 	Criar a layer do coletavel
 	fazer ele ir para a esquerda
-			
+	Player colidir com o coletavel ele ganha 1 coletavel
+	fazer coletavel sumir
+	
+	efeito de destruição do coletavel
+	gerar automaticamente o coletavel
+	
+Tela Inicial
+
+	

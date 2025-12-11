@@ -7,7 +7,7 @@ draw_text(20,20,"Pontos: " +  string(_points));
 
 
 draw_sprite_stretched(spr_icon_fish, 0, 20,50,40,30);
-draw_text(60, 50, global.fishs);
+draw_text(65, 50, global.fishs);
 
 var _mid_screen = window_get_width() /2 
 
